@@ -4881,7 +4881,6 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 charcode
 http_parser
-path
 source_span
 stack_trace
 string_scanner
@@ -10025,6 +10024,7 @@ limitations under the License.
 --------------------------------------------------------------------------------
 http
 matcher
+path
 
 Copyright 2014, the Dart project authors. 
 
